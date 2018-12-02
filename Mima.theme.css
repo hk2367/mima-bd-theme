@@ -12,16 +12,16 @@ Hex color for texts: #D89191
 
 .app,
 .callout-backdrop {
-    background-image: url("https://i.imgur.com/q8NCGHH.jpg");
+    background-image: url("https://i.imgur.com/z3mk7vf.jpg");
     background-size: cover !important;
     background-position: center !important;
 }
 .bda-backdrop {
-    background: url("https://i.imgur.com/NUhSyNd.jpg");
+    background: url("https://i.imgur.com/z3mk7vf.jpg");
     background-size: cover!important;
 }
 #pubs-container:before {
-	background: url("https://i.imgur.com/NUhSyNd.jpg")!important;
+	background: url("https://i.imgur.com/z3mk7vf.jpg")!important;
     background-size: cover!important;
 }
 .layers,
